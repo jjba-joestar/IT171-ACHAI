@@ -1,0 +1,4 @@
+1. It is to enable Windows Explorer with context menu options, selected Notepad as the default text editor for Git, and set the default initial branch name to main.
+2. To get access and control features in github.
+3. The shell prints out /c/Users/Acer/Downloads.
+4. It is a Markdown Documentation file, it contains plain texts with my description.
