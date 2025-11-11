@@ -7,6 +7,7 @@ game_running = True
 print("Welcome to {lastname's} Maze",)
 print(f"Find the treasure at ({treasure_x}, {treasure_y})!")
 
+"Welcome to {lastname}'s Maze"
 while game_running:
     move = input("Enter move (up/down/left/right or quit): ").lower()
     moved = True
@@ -35,4 +36,5 @@ while game_running:
         print("You have reached the treasure")
 
         break
+
 
