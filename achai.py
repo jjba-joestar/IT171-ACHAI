@@ -4,7 +4,7 @@ player_matthew = 0
 treasure_x = 1
 treasure_y = 3
 game_running = True
-
+print("Welcome to Achai’s Maze",)
 print(f"Find the treasure at ({treasure_x}, {treasure_y})!")
 
 while game_running:
@@ -33,4 +33,5 @@ while game_running:
 
     if player_dave == treasure_x and player_matthew == treasure_y:
         print("You have reached the treasure")
+
         break
